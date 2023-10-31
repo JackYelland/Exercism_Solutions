@@ -58,3 +58,4 @@ export function priceWithMonthlyDiscount(ratePerHour, numDays, discount) {
       remainingDays * dayRate(ratePerHour)
   );
 }
+// 2nd attempt
